@@ -1645,6 +1645,8 @@ endpoints:
       forcePrompt: false
       modelDisplayLabel: "Voidai"
       iconURL: "https://cdn.discordapp.com/icons/1106520284967735316/a_e5ae9b4603afc77d6c44ea18437cf084.png"
+      dropParams:
+       - "user"
       
     # Nexeon
     - name: "Nexeon"
@@ -1743,4 +1745,6 @@ endpoints:
       forcePrompt: false
       modelDisplayLabel:"Nexeon"
       iconURL: "https://cdn.discordapp.com/icons/1106520284967735316/a_e5ae9b4603afc77d6c44ea18437cf084.png"
+      dropParams: 
+        - "user"
       
