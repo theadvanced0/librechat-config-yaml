@@ -1772,5 +1772,5 @@ endpoints:
       summarize: false
       summaryModel: "gpt-3.5-turbo"
       forcePrompt: false
-      modelDisplayLabel:"Nexeon"
+      modelDisplayLabel: "Nexeon"
       iconURL: "https://cdn.discordapp.com/icons/1106520284967735316/a_e5ae9b4603afc77d6c44ea18437cf084.png"
